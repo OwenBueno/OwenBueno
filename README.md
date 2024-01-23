@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hey everyone, I'm OwenBueno a normal developer.
 
-<!--
-**OwenBueno/OwenBueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer with extensive experience in the field of web technologies and remote applications. I have over 3 years of experience working with React, NodeJS, and other related technologies.
 
-Here are some ideas to get you started:
+My primary focus has been on creating efficient and scalable solutions, ensuring high performance and exceptional user experience. As a highly motivated professional, I have worked in a fully remote environment and demonstrated strong communication and collaboration skills in international teams. Additionally, I have an advanced level of English, allowing me to interact fluently in an international business setting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am actively seeking new challenging opportunities to apply my skills and continue growing as a developer. If you are interested in discussing how I can contribute to your team, please feel free to contact me.
+
+- 🔭 I’m currently working on Filup.mx
+- 🌱 I’m currently learning AI
+- 👯 I’m looking to collaborate on Shiro
+- 🤔 I’m looking for help with AI
+- 💬 Ask me about Ants
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/owenbueno/">Linkedin</a>
+- ⚡ Fun fact: Life
+
+### Find me all around the web:
+<p align="left">
+<a href="https://www.linkedin.com/in/owenbueno/" target="blank"><img align="center" src="https://github.com/OwenBueno/OwenBueno/images/linkedin.png" title = "Linkedin" alt="" height="30" /></a>
+
+## GitHub Stats
+
+![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenbueno&show_icons=true&theme=radical)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OwenBueno&theme=jolly" width="700">
+
