@@ -16,7 +16,9 @@ I am actively seeking new challenging opportunities to apply my skills and conti
 
 ### Find me all around the web:
 <p align="left">
-<a href="https://www.linkedin.com/in/owenbueno/" target="blank"><img align="center" src="https://github.com/OwenBueno/OwenBueno/images/linkedin.png" title = "Linkedin" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/owenbueno/" target="_blank">
+  <img align="center" src="./images/linkedin.png" title="Linkedin" alt="" height="30" />
+</a>
 
 ## GitHub Stats
 
