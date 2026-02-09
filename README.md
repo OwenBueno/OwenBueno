@@ -6,12 +6,13 @@ My primary focus has been on creating efficient and scalable solutions, ensuring
 
 I am actively seeking new challenging opportunities to apply my skills and continue growing as a developer. If you are interested in discussing how I can contribute to your team, please feel free to contact me.
 
-- 🔭 I’m currently working on Filup.mx
+- 🔭 I’m currently working on Ntt Data/Toyota
 - 🌱 I’m currently learning AI
 - 👯 I’m looking to collaborate on Shiro
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about Ants
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/owenbueno/">Linkedin</a>
+- Checkout my Blog: OwenBueno.com
 - ⚡ Fun fact: Life
 
 ### Find me all around the web:
@@ -21,8 +22,6 @@ I am actively seeking new challenging opportunities to apply my skills and conti
 </a>
 
 ## GitHub Stats
-
-![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenbueno&show_icons=true&theme=radical)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=OwenBueno&theme=jolly" width="700">
 
